@@ -50,7 +50,7 @@
     "ownerName": "EnoAr", // owner name, you should add your name
     "ownerNumber": ["6283175371513@s.whatsapp.net"], // owner number, you should add your number
     "sessionName": "lolhuman", // will be lolhuman-session.json
-    "apikey": "" // get apikey on my website (https://api.lolhuman.xyz/)
+    "apikey": "421e957252cfa879f752840d" // get apikey on my website (https://api.lolhuman.xyz/)
 }
 ```
 
